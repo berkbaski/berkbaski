@@ -21,3 +21,5 @@ I personally like codding with **Vue.js💚** | **React.js💙** | **React Nativ
 
 #### I am excited to work on Open Source (❤️) projects and to strengthen my github profile.
 ![Berk Baski's github stats](https://github-readme-stats.vercel.app/api?username=berkbaski&show_icons=true)
+
+### [more details](berkbaski.com)
