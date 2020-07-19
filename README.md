@@ -11,7 +11,7 @@ I have been coding since I was 18(👶) years old. (with ❤️)
 - 🔥 .Net Framework
 - 🔥 .Net Core
 - 🔥 MS SQL Server
-- 
+
 I personally like codding with **Vue.js💚** | **React.js💙** | **React Native💙**
 
 - aug 2020 - current > *Akinon* (Frontend Developer)
