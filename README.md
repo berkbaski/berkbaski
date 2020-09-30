@@ -3,25 +3,29 @@
 I have been coding since I was 18(👶) years old. (with ❤️) 
 > I give my repo names from Harry Potter characters because Harry Potter is my favorite movie 👓⚡
 
-### 🔭 I'm currently working at Akinon and my favorite language is javascript ❤️
+### 🔭 I'm currently working at [bearg](https://github.com/bearg-dev)(own company) and my favorite language is JavaScript ❤️
 #### 🌈 I have used the following languages ​​and technologies in my work in the last 4 years.
 - 🔥 Angular
 - 🔥 Ionic
+- 🔥 Vue.js & Nuxt.js
+- 🔥 React.js
+- 🔥 ReactNative
 - 🚀 Node.js (I think this is very 💪)
 - 🔥 .Net Framework
 - 🔥 .Net Core
 - 🔥 MS SQL Server
-
+- 🌿 MongoDB 
 
 <br>
 
-> I hope I never use Microsoft products again.😛
+> I hope i never use Microsoft products again.😛
 
 <br>
 
 I personally like codding with **Vue.js💚** | **React.js💙** | **React Native💙**
 
-- aug 2020 - current > *Akinon* (Frontend Developer)
+- sept 2020 - current > *bearg* (Founder)
+- aug 2020 - sept 2020 > *Akinon* (Frontend Developer)
 - apr 2018 - aug 2020 > *Eventidea* (Fullstack Developer)
 - nov 2016 - aug 2020 > *Onay Bilişim Teknolojileri* (Fullstack developer)
 - sep 2015 - june 2016 > *TRtek Medical Software* (Intern)
