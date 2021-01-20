@@ -3,8 +3,8 @@
 I have been coding since I was 18(👶) years old. (with ❤️) 
 > I give my repo names from Harry Potter characters because Harry Potter is my favorite movie 👓⚡
 
-### 🔭 I'm currently working at [bearg](https://github.com/bearg-dev)(own company) and my favorite language is JavaScript ❤️
-#### 🌈 I have used the following languages ​​and technologies in my work in the last 4 years.
+### 🔭 I'm currently working at [Digital Art](https://www.digital-art.de) and my favorite language is JavaScript ❤️
+#### 🌈 I have used the following languages ​​and technologies in my work in the last 5 years.
 - 🔥 Angular
 - 🔥 Ionic
 - 🔥 Vue.js & Nuxt.js
@@ -24,7 +24,8 @@ I have been coding since I was 18(👶) years old. (with ❤️)
 
 I personally like codding with **Vue.js💚** | **React.js💙** | **React Native💙**
 
-- sept 2020 - current > *bearg* (Founder)
+- jan 2021 - current > *Digital Art* (JavaScript Developer)
+- dec 2020 - current > *TRtek Medical Software* (Software Development Consultant)
 - aug 2020 - sept 2020 > *Akinon* (Frontend Developer)
 - apr 2018 - aug 2020 > *Eventidea* (Fullstack Developer)
 - nov 2016 - aug 2020 > *Onay Bilişim Teknolojileri* (Fullstack developer)
