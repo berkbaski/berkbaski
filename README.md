@@ -1,6 +1,5 @@
 # Hi there, my name is Berk 👋
 
-## 🔭 I'm working @ [Smartface](https://smartface.io) 
 ### I'm a JS lover.🚀
 
 #### I am excited to work on Open Source (❤️) projects and to strengthen my github profile.
